@@ -10,7 +10,8 @@ A Vending Machine prototype with:
    (with a menu selection of 1 (show item), 2 (admin inventory), 3 (exit)
    Exit option terminates entire program.
 
-3. Stock list is shown when option 1 is selected.
-   Can put max 5 stocks (20 unit each)
-   Users can choose either stock which are valid.
-   
+When option 1 is selected:
+   Show a stock list
+      Can put max 5 stocks (20 unit each)
+      Users can choose either stock which are valid.
+      Display 
